@@ -12,6 +12,15 @@ For more information, please refer to the following.
 ## **Citation**
 ```
 @article{taghizadeh2021explicit,
+  title={Explicit physics-informed neural networks for nonlinear closure: The case of transport in tissues},
+  author={Taghizadeh, Ehsan and Byrne, Helen and Wood, Brian D},
+  journal={Journal of Computational Physics},
+  pages={110781},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{taghizadeh2021explicit,
          title={Explicit physics-informed neural networks for non-linear upscaling closure: the case of transport in tissues}, 
          author={Ehsan Taghizadeh and Helen M. Byrne and Brian D. Wood},
          journal={arXiv preprint arXiv:2104.01476},
